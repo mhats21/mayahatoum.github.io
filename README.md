@@ -7,6 +7,7 @@
 **Version:** 2022.4
 
 # Project 2: Examining Spotify's datasets using Python
+* Some tool
 ## Code and Resources Used
 **Python Version:** 3.7
 **Visualization:** Jupyter Notebook
