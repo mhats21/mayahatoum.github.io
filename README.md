@@ -11,4 +11,4 @@
 **Python Version:** 3.7
 **Visualization:** Jupyter Notebook
 **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
-	![heat map](heat_map.png)
+	![heat map](images/heat_map.png)
