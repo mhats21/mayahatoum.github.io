@@ -20,7 +20,7 @@ Results:
 
 
 
-## Code and Resources Used
+## Resources Used
 **Python Version:** 3.7  
 **Visualization:** Jupyter Notebook  
 **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
