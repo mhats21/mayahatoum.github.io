@@ -25,6 +25,15 @@ Results:
 
 
 
+
+<img src="images/acousticness.png" width="400" height="200" />
+
+
+
+<img src="images/LoudvsEnergy.png" width="400" height="200" />
+
+
+
 ## Resources Used
 **Python Version:** 3.7  
 **Visualization:** Jupyter Notebook  
