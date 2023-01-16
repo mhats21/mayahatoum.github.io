@@ -26,7 +26,7 @@ Results:
 
 
 
-<img src="images/acousticness.png" width="400" height="200" />
+<img src="images/Acousticness.png" width="400" height="200" />
 
 
 
