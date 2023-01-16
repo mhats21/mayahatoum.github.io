@@ -1,18 +1,22 @@
 # Maya's Portfolio
 
+I am an aspiring data analyst with experience in softwares such as Tableau, Python, R, SQL, MS Excel and have demonstrated efficient analytical techniques such as data cleaning, dashboard building, report writing, statistics, and critical thinking. My projects have explored data sets in a variety of industries and projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action. My interest for data analytics stems from problem solving personality and passion for expanding on my analytical skills.
+
+Thank you for considering me as a candidate, I look forward to hearing from you soon.
+
 # Project 1: COVID 19 Vaccine Tracker
-* Created a tool that compares COVID-19 vaccination rates
+* Generated interactive tool that allows user to Visual analytics tool examining full versus partial vaccination rates across all 195 countries from 2020-2021
 ## Code and Resources Used
 **Visualization:** Tableau Desktop  
 **Version:** 2022.4  
 
 # Project 2: Examining Spotify's datasets using Python
-* Some tool
+* 
 
 --- 
 Code: [spotifydata.ipynb](video_games_sales.ipynb)   
 The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
-Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+Skills: data cleaning, data analysis, data visualization.  
 Results: 
 
 
