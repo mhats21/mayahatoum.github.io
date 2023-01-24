@@ -41,4 +41,4 @@ Results:
 
 
 
-# Project 3: Heart Disease Predictor
+# [Project 3: Heart Disease Predictor] (Athena Heart Disease Prediction.ipynb)
