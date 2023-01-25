@@ -1,3 +1,9 @@
+# Maya Hatoum
+I am an aspiring data analyst with experience in softwares such as Tableau, Python, R, SQL, MS Excel and have demonstrated efficient analytical techniques such as data cleaning, dashboard building, critical thinking and report writing. My interest for data analytics stems from problem solving personality and passion for expanding on my analytical skills.
+My projects have explored data sets in a variety of industries to generate clear insights and encourage data-driven decisions. These projects best demonstrate my ability to organize and present data in a clear and visually appealing way, making it easy for decision makers to understand and take action. Thank you for considering me as a candidate, I look forward to hearing from you soon.
+
+
+
 # Project 1: COVID 19 Vaccine Tracker
 * Generated interactive tool that allows user to Visual analytics tool examining full versus partial vaccination rates across all 195 countries from 2020-2021
 ## Code and Resources Used
