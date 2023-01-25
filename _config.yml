@@ -7,3 +7,8 @@ description: I am an aspiring data analyst with experience in softwares such as 
 My projects have explored data sets in a variety of industries to generate clear insights and encourage data-driven decisions. These projects best demonstrate my ability to organize and present data in a clear and visually appealing way, making it easy for decision makers to understand and take action.
 
 Thank you for considering me as a candidate, I look forward to hearing from you soon.
+
+---
+---
+
+@import "{{ site.theme }}";
