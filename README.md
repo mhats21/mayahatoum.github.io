@@ -1,6 +1,7 @@
 # Project 1: COVID 19 Vaccine Tracker
 --- 
 * Generated interactive tool that allows user to Visual analytics tool examining full versus partial vaccination rates across all 195 countries from 2020-2021
+* [about page](covid.md)
 	[home](test.html)
 
 ## Code and Resources Used
