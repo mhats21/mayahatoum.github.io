@@ -24,7 +24,7 @@ Results:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Code and Resources Used**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Python Version:** 3.7   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Jupyter Notebook 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Jupyter Notebook   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
 
 
