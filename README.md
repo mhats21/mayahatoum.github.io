@@ -5,8 +5,8 @@
 	[home](test.html)
 
 ## Code and Resources Used
-**Visualization:** Tableau Desktop  
-**Version:** 2022.4  
+* **Visualization:** Tableau Desktop  
+* **Version:** 2022.4  
 
 # [Project 2: Spotify dataset analysis](spotifydata.md) 
 
@@ -35,6 +35,6 @@ Results:
 
 
 ## Code and Resources Used
-**Python Version:** 3.7  
-**Visualization:** Jupyter Notebook  
-**Packages:** numpy, pandas, matplotlib.pyplot, seaborn
+* **Python Version:** 3.7  
+* **Visualization:** Jupyter Notebook  
+* **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
