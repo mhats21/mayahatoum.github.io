@@ -36,4 +36,5 @@ Results:
 
 
 
-# [Project 3: Heart Disease Predictor] (HDprediction.ipynb)
+# Project 3: Heart Disease Predictor 
+[home](HDprediction.ipynb)
