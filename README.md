@@ -16,18 +16,6 @@ Skills: data cleaning, data analysis, data visualization.
 Results: 
 
 
-<img src="images/heat_map.png" width="800" height="400" />
-
-
-
-
-<img src="images/Acousticness.png" width="800" height="400" />
-
-
-
-<img src="images/LoudvsEnergy.png" width="800" height="400" />
-
-
 
 ## Resources Used
 **Python Version:** 3.7  
