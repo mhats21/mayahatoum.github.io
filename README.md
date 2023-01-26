@@ -4,9 +4,9 @@
 * [about page](covid.md)
 	[home](test.html)
 
-    ## Code and Resources Used
-    **Visualization:** Tableau Desktop  
-    **Version:** 2022.4  
+## Code and Resources Used
+**Visualization:** Tableau Desktop  
+**Version:** 2022.4  
 
 # [Project 2: Spotify analysis using Python](spotifydata.md)
 <img src="spotlogo.png" width="50" height="50" /> 
@@ -18,10 +18,10 @@ Results:
 
 
 
-   ## Code and Resources Used
-   **Python Version:** 3.7  
-   **Visualization:** Jupyter Notebook  
-   **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
+## Code and Resources Used
+**Python Version:** 3.7  
+**Visualization:** Jupyter Notebook  
+**Packages:** numpy, pandas, matplotlib.pyplot, seaborn
 
 
 
@@ -34,7 +34,7 @@ Results:
 
 
 
-   ## Code and Resources Used
-   **Python Version:** 3.7  
-   **Visualization:** Jupyter Notebook  
-   **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
+## Code and Resources Used
+**Python Version:** 3.7  
+**Visualization:** Jupyter Notebook  
+**Packages:** numpy, pandas, matplotlib.pyplot, seaborn
