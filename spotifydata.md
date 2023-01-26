@@ -1,7 +1,7 @@
 ---
 title: Project 2: Spotify Dataset
 layout: template
-filename: spotify.md
+filename: spotifysata.md
 --- 
 
 
