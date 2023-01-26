@@ -17,6 +17,10 @@ Results:
 
 
 
+<img src="images/heat_map.png" width="60" height="30" />
+<img src="images/Acousticness.png" width="60" height="30" />
+<img src="images/LoudvsEnergy.png" width="60" height="30" />
+
 ## Code and Resources Used
 * **Python Version:** 3.7  
 * **Visualization:** Jupyter Notebook  
