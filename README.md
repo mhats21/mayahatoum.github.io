@@ -9,7 +9,7 @@
 
 # Project 2: Examining Spotify's datasets using Python
 --- 
-View Code here: [Spotify.ipynb](Spotify.ipynb)   
+View Code here: [Spotify.md](Spotify.md)   
 The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
 Skills: data cleaning, data analysis, data visualization.  
 Results: 
