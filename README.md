@@ -17,7 +17,7 @@ Results:
 
 
 
-<img src="images/heat_map.png" width="100" height="50" /> <img src="images/Acousticness.png" width="100" height="50" /> <img src="images/LoudvsEnergy.png" width="100" height="50" />
+<img src="images/heat_map.png" width="150" height="75" /> <img src="images/Acousticness.png" width="150" height="75" /> <img src="images/LoudvsEnergy.png" width="150" height="75" />
 
 ## Code and Resources Used
 * **Python Version:** 3.7  
