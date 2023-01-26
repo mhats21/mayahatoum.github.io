@@ -8,7 +8,7 @@
 **Visualization:** Tableau Desktop  
 **Version:** 2022.4  
 
-<img src="spotlogo.png" width="50" height="50" img align="left" />   #Project 2: Spotify analysis using Python
+<img src="spotlogo.png" width="50" height="50" img align="left" />   # Project 2: Spotify analysis using Python
 
 --- 
 *  View Code here: [Spotify.md](spotifydata.md)   
