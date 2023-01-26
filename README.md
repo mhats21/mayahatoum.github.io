@@ -4,7 +4,7 @@
 * [about page](covid.md)
 	[home](test.html)
 
-## Code and Resources Used
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Code and Resources Used**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Tableau Desktop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Version:** 2022.4  
 
