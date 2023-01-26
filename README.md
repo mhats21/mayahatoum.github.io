@@ -5,8 +5,8 @@
 	[home](test.html)
 
 ## Code and Resources Used
-* **Visualization:** Tableau Desktop  
-* **Version:** 2022.4  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Tableau Desktop  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Version:** 2022.4  
 
 # [Project 2: Spotify dataset analysis](spotifydata.md) 
 
