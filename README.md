@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Tableau Desktop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Version:** 2022.4  
 
-# [Project 2: Spotify dataset analysis](spotifydata.md) 
+# [Project 2: Spotify dataset analysis](Spotify.md) 
 
 *  View Code here: [Dataset analysis](Spotify.ipynb)   
 *  The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
