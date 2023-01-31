@@ -2,7 +2,7 @@
 
 * Generated interactive tool that allows user to Visual analytics tool examining full versus partial vaccination rates across all 195 countries from 2020-2021
 * [about page](covid.md)
-	[home](test.html)
+	[Download the workbook here](test.html)
 	
 &nbsp;&nbsp;<img src="images/covidmap.png" width="130" height="75" /> <img src="images/covidchart.png" width="150" height="75" /> <img src="images/covidlog.png" width="150" height="75" />
 
