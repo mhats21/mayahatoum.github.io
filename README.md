@@ -3,7 +3,7 @@
 * Generated interactive tool that allows user to Visual analytics tool examining full versus partial vaccination rates across all 195 countries from 2020-2021
 * [Download the workbook here](vaccine tracker.twbx)
 	
-&nbsp;&nbsp;<img src="images/covidmap.png" width="600" height="300" /> <img src="images/covidchart.png" width="600" height="300" /> <img src="images/covidlog.png" width="600" height="300" />
+&nbsp;&nbsp;<img src="images/covidmap.png" width="600" height="300" /> <img src="images/covidchart.png" width="600" height="200" /> <img src="images/covidlog.png" width="600" height="300" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Code and Resources Used**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Tableau Desktop  
