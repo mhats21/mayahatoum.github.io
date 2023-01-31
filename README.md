@@ -30,7 +30,7 @@ Results:
 
 # [Project 3: Heart Disease Predictor ](project3.md)
 
-*  View Code here: [Spotify.md](HDprediction.ipynb)   
+*  View Code here: [Prediction System](HDprediction.ipynb)   
 *  The goal of this machine learning project was to create a responsive system using python that can predict whether or not an individual has heart disease. It contains 14 attributes (out of 76 attributes) which are defined as age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, oldpeak — ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels and Thalassemia. Skills applied in this project included train test split (for model evaluation), as well as the creation of a logistic regression model (for binary classification).
 Skills: data cleaning, data analysis, machine learning
 
