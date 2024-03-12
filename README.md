@@ -9,14 +9,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Tableau Desktop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Version:** 2022.4  
 
-&nbsp;&nbsp;<img src="images/heat_map.png" width="600" height="300" /> <img src="images/Acousticness.png" width="600" height="300" /> <img src="images/LoudvsEnergy.png" width="600" height="300" />
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Code and Resources Used**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Python Version:** 3.7   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Visualization:** Jupyter Notebook   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Packages:** numpy, pandas, matplotlib.pyplot, seaborn
-
 
 # [Project 2: Heart Disease Predictor ](project3.md)
 
